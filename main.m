@@ -2,18 +2,18 @@
 %___________________________________________________________________%
 %                                                                   %
 %  Developed in MATLAB R2014a                                       %
-%     								    %
-%								    %
+%     							                                          	    %
+%								                                                    %
 %                                                                   %
-%  programmers: Fatemeh Bandi		                            %
-%								    %
-%								    %
-%        paper: 					            %
+%  programmer: Fatemeh Bandi		                                    %
+%								                                                    %
+%								                                                    %
+%        paper: 	                              				            %
 %        Novel adaptive hybrid rule network based on TS fuzzy rules %
-%        using an improved quantum-behaved particle swarm 	    %
+%        using an improved quantum-behaved particle swarm 	        %
 %        optimization for medical data classification               %
 %                                                                   %
-%								    %
+%								                                                    %
 %___________________________________________________________________%
 
 
